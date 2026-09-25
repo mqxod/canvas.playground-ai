@@ -1,1 +1,1 @@
-# canvas.playground-ai
+# Playground Ai - Canvas
